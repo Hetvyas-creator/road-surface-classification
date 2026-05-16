@@ -10,7 +10,7 @@
 
 Automated road surface classification system using **SegFormer (Vision Transformer)** on UAV imagery.
 
-**Published at:** ICAICS 2026 Conference (March 2026)
+**Presented at:** ICAICS 2026 Conference (March 2026)
 
 ### Problem
 - Manual road inspection: 2-3 months, ₹5-10 lakh for 500km
@@ -125,8 +125,7 @@ See `requirements.txt` for full list.
 BTech Computer Science & Engineering  
 Indrashil University, Gujarat
 
-📧 Email: het.vyas@indrashil.edu  
-🎓 Guide: Dr. Vishvajit Thakor
+
 
 ---
 
@@ -136,11 +135,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
 
-- Dr. Vishvajit Thakor (Project Guide)
-- SegFormer by Xie et al. (2021)
-- Google Colab for GPU resources
 
 ---
 
